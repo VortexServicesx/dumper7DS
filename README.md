@@ -24,7 +24,7 @@ The goal is to help developers learn reverse engineering concepts in a controlle
 ---
 
 ## Improvement for this project
-The hpp/header contructor is in development as of right now im currently working on a better contructor so it can be more readable.
+The hpp/header contructor is in development as of right now im currently working on a better contructor. You may see some issues with names, offsets, etc..
 
 ## Disclaimer
 
