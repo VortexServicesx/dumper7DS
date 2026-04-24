@@ -1,4 +1,4 @@
-![preview](images/image.png)
+![preview](images/logo.png)
 
 # 7DSGC Offsets
 This repository is intended for educational and research purposes only. It contains offset references and notes related to process structure analysis for learning how software is organized in memory.
