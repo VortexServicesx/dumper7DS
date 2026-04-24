@@ -5,7 +5,7 @@
 
 // OFFSETS 
 // visit this GoFile for updated offsets, and i cant provide the offsets here unfortunately because the file is large and GitHub only allows 25MB:
-// OFFSETS HERE: https://gofile.io/d/SorYch or https://raw.githubusercontent.com/VortexServicesx/7DSGC_Offsets/refs/heads/main/output.hpp
+// OFFSETS HERE: https://gofile.io/d/O0BONj
 
 // IMPORTANT
 // If the .hpp file is not opening, try opening it in an IDE to view it properly.
