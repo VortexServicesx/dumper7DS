@@ -10,6 +10,7 @@ Welcome to a universe with fully updated offsets for 7DSGC, these aren't dumped 
 - Fields
 - Methods
 - Arguments
+- Data Types
 
 ---
 
