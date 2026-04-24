@@ -14,7 +14,6 @@ OFFSETS HERE: coming soon!
 
 // IMPORTANT - READ
 If the .hpp file is not opening, try opening it in an IDE to view it properly.
-THIS IS PC CLIENT OFFSETS (WINDOWS) ANDROID SOON?!?!?!
 
 // DISCORD
 discord.gg/9SyWumEZJP
