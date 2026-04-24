@@ -12,11 +12,14 @@ Welcome to 7DSGC Offsets. We provide PC and Android offsets generated using the 
 ---
 
 ## Contents
-- Offsets
+- Live Offsets
 - Fields
 - Methods
 - Arguments
 - Data Types
+- Properties
+- Structs
+- Classes
 
 ---
 
